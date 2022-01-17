@@ -1,4 +1,4 @@
-# muti_select
+# muti_select for flutter
 
 A new Flutter project.
 
